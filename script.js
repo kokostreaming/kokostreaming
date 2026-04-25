@@ -67,7 +67,7 @@ const catalogData = {
         title: "🍿 Recomendaciones",
         desc: "Los más solicitados por nuestros clientes",
         items: [
-            { id: "mega1", name: "Mega Combo X4 Estándar", icon: getL(['netflix', 'disney', 'max', 'prime']), price: 34000, detail: "Net + Disney Est + HBO + Prime", oldPrice: 41000, isMega: true, agotado: true },
+            { id: "mega1", name: "Mega Combo X4 Estándar", icon: getL(['netflix', 'disney', 'max', 'prime']), price: 34000, detail: "Net + Disney Est + HBO + Prime", oldPrice: 41000, isMega: true },
             { id: "net1", name: "Netflix", icon: getL(['netflix']), price: 15000, detail: "Pantalla 30 días" },
             { id: "c2_1", name: "Netflix + Prime", icon: getL(['netflix', 'prime']), price: 22000, detail: "Combo Doble" },
             { id: "spot1", name: "Spotify Premium", icon: getL(['spotify']), price: 13000, detail: "1 mes" }
